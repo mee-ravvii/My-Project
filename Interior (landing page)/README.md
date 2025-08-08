@@ -37,7 +37,7 @@ If you like this project or want to collaborate, feel free to reach out:
 - **LinkedIn:** [[www.linkedin.com/in/ravi-yadav1808](https://www.linkedin.com/in/ravi-yadav1808/)](#)
 
 
-- **Instagram:** [https://www.instagram.com/snipsofsprout/profilecard/?igsh=dWg5eWVydHNyNmQ=](#)
+- **Instagram:** [[https://www.instagram.com/snipsofsprout/profilecard/?igsh=dWg5eWVydHNyNmQ=](https://www.instagram.com/snipsofsprout/#)](#)
 
 ---
 *This project is for educational and practice purposes only.*
