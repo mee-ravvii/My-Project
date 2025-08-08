@@ -4,10 +4,6 @@ A modern and visually appealing **Interior Design Landing Page** concept built a
 This page showcases a professional, clean layout perfect for interior designing businesses that want to attract customers and display their services in style.
 
 
-
-## 📸 Preview
-![SprOut Interior's Landing Page](C:\RAVI CS\Projects\Interior (landing page)\interior  preview.png) <!-- Replace with your actual screenshot path -->
-
 ## ✨ Features
 - 🖼️ Full-screen hero section with background image
 - 🛋️ Modern typography and clean design
