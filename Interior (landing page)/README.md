@@ -33,8 +33,8 @@ sprout-interiors/
 
 ## 📬 Contact
 If you like this project or want to collaborate, feel free to reach out:
-- **Email:** yourname@example.com
-- **LinkedIn:** [www.linkedin.com/in/ravi-yadav1808](#)
+- **Email:** raviyadav99873@gmail.com
+- **LinkedIn:** [[www.linkedin.com/in/ravi-yadav1808](https://www.linkedin.com/in/ravi-yadav1808/)](#)
 
 
 - **Instagram:** [https://www.instagram.com/snipsofsprout/profilecard/?igsh=dWg5eWVydHNyNmQ=](#)
