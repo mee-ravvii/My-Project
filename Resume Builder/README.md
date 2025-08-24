@@ -33,7 +33,6 @@ project-root/
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+)
-- **Libraries:** jQuery, jQuery Repeater
 - **Other Tools:** Responsive design techniques
 
 ---
